@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1600"
+     height="96"
+     viewBox="0 0 1600 96"
+     fill="none">
+
+  <!-- transparent background -->
+
+  <!-- Green rules -->
+  <line x1="60" y1="28" x2="720" y2="28" stroke="#0D8A6F" stroke-width="3"/>
+  <line x1="60" y1="44" x2="690" y2="44" stroke="#0D8A6F" stroke-width="3"/>
+  <line x1="910" y1="44" x2="1540" y2="44" stroke="#0D8A6F" stroke-width="3"/>
+  <line x1="880" y1="60" x2="1540" y2="60" stroke="#0D8A6F" stroke-width="3"/>
+  <line x1="60" y1="76" x2="1540" y2="76" stroke="#0D8A6F" stroke-width="3"/>
+
+  <!-- Cyan burst fragment -->
+  <polygon points="760,48 790,12 782,40 826,24 798,52 846,48 798,60 830,86 784,64 790,92"
+           fill="#76E8FF"/>
+
+  <!-- Black spark -->
+  <polygon points="862,48 872,44 876,34 880,44 890,48 880,52 876,62 872,52"
+           fill="#0E0E12"/>
+
+  <!-- Magenta accents -->
+  <rect x="1478" y="10" width="32" height="76" rx="16" fill="#FF1FD2"/>
+  <rect x="126" y="70" width="58" height="10" rx="5" fill="#FF1FD2"/>
+
+  <!-- Yellow slash -->
+  <polygon points="724,70 754,70 740,84 710,84" fill="#FFD300"/>
+
+</svg>
