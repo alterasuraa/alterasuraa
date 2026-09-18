@@ -18,11 +18,11 @@
 
 ### `// CURRENTLY CAUSING PROBLEMS`
 
-```text
-VISUALS     → making things look louder than necessary
-MACHINES    → teaching them questionable behaviour
-EXPERIMENTS → starting sensible, ending somewhere else
-SIDE QUESTS → permanently enabled
+```yaml
+VISUALS:     making things look louder than necessary
+MACHINES:    teaching them questionable behaviour
+EXPERIMENTS: starting sensible, ending somewhere else
+SIDE_QUESTS: permanently enabled
 ```
 
 <br>
@@ -31,7 +31,11 @@ SIDE QUESTS → permanently enabled
 
 ### `NO ROADMAP. JUST SIDE QUESTS.`
 
-`✦  ◢  ●  ///  ◇  ✦`
+<img src="./assets/slash-accent.svg" width="90" alt="" />
+&nbsp;&nbsp;
+<img src="./assets/dot-accent.svg" width="28" alt="" />
+&nbsp;&nbsp;
+<img src="./assets/slash-accent.svg" width="90" alt="" />
 
 </div>
 
@@ -39,28 +43,53 @@ SIDE QUESTS → permanently enabled
 
 ---
 
-### `// THE LAB`
-
-| | |
-|:---:|:---:|
-| **VOICES WITHOUT THROATS** | **IMAGES WITHOUT CAMERAS** |
-| making machines talk | manufacturing pixels irresponsibly |
-| **SYSTEMS WITH OPINIONS** | **THINGS NOBODY REQUESTED** |
-| giving logic too much personality | arguably the important work |
-
 <br>
 
-<div align="center">
-
-`CREATE`　→　`DISTORT`　→　`BREAK`　→　`REBUILD`
-
-</div>
-
-<br>
-
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
+<p align="left">
+  <img src="./assets/label-operating.svg" width="320" alt="Operating Procedure" />
 </p>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./assets/step-create.svg" width="170" alt="01 Create" />
+    </td>
+    <td align="center">
+      <img src="./assets/connector.svg" width="75" alt="" />
+    </td>
+    <td align="center">
+      <img src="./assets/step-distort.svg" width="190" alt="02 Distort" />
+    </td>
+    <td align="center">
+      <img src="./assets/connector.svg" width="75" alt="" />
+    </td>
+    <td align="center">
+      <img src="./assets/step-rebuild.svg" width="190" alt="03 Rebuild" />
+    </td>
+    <td align="center">
+      <img src="./assets/connector.svg" width="75" alt="" />
+    </td>
+    <td align="center">
+      <img src="./assets/step-repeat.svg" width="190" alt="04 Repeat" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+```javascript
+while (idea.exists) {
+  create();
+  distort();
+  rebuild();
+
+  if (idea.isBoring) breakSomething();
+}
+```
+
+<br>
 
 ### `// RULES OF THE LAB`
 
@@ -70,7 +99,6 @@ SIDE QUESTS → permanently enabled
 + BREAK THINGS ON PURPOSE
 + AUTOMATE BORING SHIT
 + CARE ABOUT HOW THINGS LOOK
-+ FINISH SOMETHING OCCASIONALLY
 
 - "AI-POWERED" ON EVERY FUCKING SENTENCE
 - EVERYTHING NEEDS TO BE A STARTUP
@@ -80,26 +108,15 @@ SIDE QUESTS → permanently enabled
 
 <br>
 
-<details>
-<summary><code>DO NOT OPEN THIS</code></summary>
-
-<br>
-
-```text
-INITIALIZING BAD IDEA...
-
-[████████████████████] 100%
-
-STATUS  : should probably stop
-ACTION  : continued anyway
-RESULT  : interesting
-```
-
-</details>
-
-<br>
-
 <div align="center">
+
+<img src="./assets/slash-accent.svg" width="100" alt="" />
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/dot-accent.svg" width="30" alt="" />
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/slash-accent.svg" width="100" alt="" />
+
+<br><br>
 
 ### `THE MACHINE IS FINE.`
 
