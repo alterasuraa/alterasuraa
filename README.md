@@ -1,16 +1,46 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Alter Asura" />
+</p>
 
-<!--
-**alterasuraa/alterasuraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `BEAUTIFUL BAD IDEAS, BUILT ANYWAY.`
+
+**art × code × experiments × questionable decisions**
+
+`MAKE`　`BREAK`　`DISTORT`　`REPEAT`
+
+</div>
+
+<br>
+
+---
+
+### ◈ CURRENTLY MAKING A MESS OF
+
+Things that move.  
+Things that react.  
+Things that probably didn't need AI.  
+Things I wanted to exist anyway.
+
+<br>
+
+<div align="center">
+
+`[ VISUAL EXPERIMENTS ]`　　`[ MACHINE MISCHIEF ]`　　`[ RANDOM BUILDS ]`
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### `NO ROADMAP. JUST SIDE QUESTS.`
+
+✦　　◢　　●　　///　　◇　　✦
+
+</div>
