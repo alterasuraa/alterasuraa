@@ -51,31 +51,15 @@ SIDE_QUESTS: permanently enabled
 
 <br>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="./assets/step-create.svg" width="170" alt="01 Create" />
-    </td>
-    <td align="center">
-      <img src="./assets/connector.svg" width="75" alt="" />
-    </td>
-    <td align="center">
-      <img src="./assets/step-distort.svg" width="190" alt="02 Distort" />
-    </td>
-    <td align="center">
-      <img src="./assets/connector.svg" width="75" alt="" />
-    </td>
-    <td align="center">
-      <img src="./assets/step-rebuild.svg" width="190" alt="03 Rebuild" />
-    </td>
-    <td align="center">
-      <img src="./assets/connector.svg" width="75" alt="" />
-    </td>
-    <td align="center">
-      <img src="./assets/step-repeat.svg" width="190" alt="04 Repeat" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/step-create.svg" width="190" alt="01 Create" />
+  <img src="./assets/connector.svg" width="65" alt="" />
+  <img src="./assets/step-distort.svg" width="210" alt="02 Distort" />
+  <img src="./assets/connector.svg" width="65" alt="" />
+  <img src="./assets/step-rebuild.svg" width="210" alt="03 Rebuild" />
+  <img src="./assets/connector.svg" width="65" alt="" />
+  <img src="./assets/step-repeat.svg" width="210" alt="04 Repeat" />
+</p>
 
 <br>
 
