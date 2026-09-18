@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="220"
+     height="80"
+     viewBox="0 0 220 80">
+
+  <!-- 04 -->
+  <text x="8"
+        y="22"
+        font-family="'Courier New', monospace"
+        font-size="13"
+        font-weight="700"
+        fill="#FFD300">
+    04
+  </text>
+
+  <!-- REPEAT -->
+  <text x="8"
+        y="56"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="25"
+        font-weight="900"
+        letter-spacing="4"
+        fill="#0E0E12">
+    REPEAT
+  </text>
+
+  <!-- violet slashes -->
+  <g fill="#5A1DFF">
+    <polygon points="169,35 177,35 165,60 157,60"/>
+    <polygon points="181,35 189,35 177,60 169,60"/>
+    <polygon points="193,35 201,35 189,60 181,60"/>
+    <polygon points="205,35 213,35 201,60 193,60"/>
+  </g>
+
+</svg>

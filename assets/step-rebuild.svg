@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="220"
+     height="80"
+     viewBox="0 0 220 80">
+
+  <!-- 03 -->
+  <text x="8"
+        y="22"
+        font-family="'Courier New', monospace"
+        font-size="13"
+        font-weight="700"
+        fill="#FF1FD2">
+    03
+  </text>
+
+  <!-- REBUILD -->
+  <text x="8"
+        y="56"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="25"
+        font-weight="900"
+        letter-spacing="4"
+        fill="#0E0E12">
+    REBUILD
+  </text>
+
+  <!-- yellow diamond -->
+  <polygon points="
+      185,36
+      197,48
+      185,60
+      173,48
+    "
+    fill="#FFD300"/>
+
+</svg>
