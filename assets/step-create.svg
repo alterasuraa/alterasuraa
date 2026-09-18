@@ -25,9 +25,9 @@
   </text>
 
   <!-- magenta dot -->
-  <circle cx="145"
-          cy="48"
-          r="8"
-          fill="#FF1FD2"/>
+  <circle cx="165"
+        cy="48"
+        r="8"
+        fill="#FF1FD2"/>
 
 </svg>
