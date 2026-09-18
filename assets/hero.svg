@@ -1,0 +1,322 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1600"
+     height="420"
+     viewBox="0 0 1600 420">
+
+  <defs>
+    <!-- Purple → Magenta -->
+    <linearGradient id="magentaGradient"
+                    x1="0" y1="0"
+                    x2="1" y2="1">
+      <stop offset="0%" stop-color="#5A1DFF"/>
+      <stop offset="100%" stop-color="#FF1FD2"/>
+    </linearGradient>
+
+    <!-- Cyan gradient -->
+    <linearGradient id="cyanGradient"
+                    x1="0" y1="0"
+                    x2="1" y2="1">
+      <stop offset="0%" stop-color="#76E8FF"/>
+      <stop offset="100%" stop-color="#37CFEA"/>
+    </linearGradient>
+
+    <!-- Clip rounded outer frame -->
+    <clipPath id="frameClip">
+      <rect x="12"
+            y="12"
+            width="1576"
+            height="396"
+            rx="30"/>
+    </clipPath>
+  </defs>
+
+
+  <!-- =====================================================
+       BACKGROUND
+       ===================================================== -->
+
+  <rect x="12"
+        y="12"
+        width="1576"
+        height="396"
+        rx="30"
+        fill="#ECE7D7"
+        stroke="#0E0E12"
+        stroke-width="4"/>
+
+
+  <g clip-path="url(#frameClip)">
+
+
+    <!-- =====================================================
+         LEFT MAGENTA GEOMETRY
+         ===================================================== -->
+
+    <!-- giant cropped circle -->
+    <circle cx="70"
+            cy="70"
+            r="245"
+            fill="url(#magentaGradient)"/>
+
+    <!-- secondary angular extension -->
+    <polygon
+      points="
+      0,220
+      215,105
+      350,185
+      225,270
+      0,320
+      "
+      fill="#FF1FD2"
+      opacity="0.72"/>
+
+    <!-- black slash marks -->
+    <g fill="#0E0E12">
+      <polygon points="70,255 88,255 53,325 35,325"/>
+      <polygon points="105,255 123,255 88,325 70,325"/>
+      <polygon points="140,255 158,255 123,325 105,325"/>
+      <polygon points="175,255 193,255 158,325 140,325"/>
+      <polygon points="210,255 228,255 193,325 175,325"/>
+    </g>
+
+
+    <!-- =====================================================
+         RIGHT CYAN BURST
+         ===================================================== -->
+
+    <polygon
+      points="
+      1390,34
+      1408,125
+      1450,68
+      1434,145
+      1510,90
+      1460,164
+      1560,148
+      1472,190
+      1588,220
+      1470,218
+      1540,300
+      1445,238
+      1450,355
+      1408,250
+      1360,335
+      1380,238
+      1288,290
+      1360,210
+      1260,195
+      1360,178
+      1300,110
+      1380,150
+      "
+      fill="url(#cyanGradient)"/>
+
+
+    <!-- =====================================================
+         GREEN RULES
+         ===================================================== -->
+
+    <g stroke="#0D8A6F"
+       stroke-width="3">
+
+      <line x1="1110" y1="78"  x2="1540" y2="78"/>
+      <line x1="1150" y1="108" x2="1540" y2="108"/>
+      <line x1="1190" y1="138" x2="1540" y2="138"/>
+
+    </g>
+
+
+    <!-- =====================================================
+         TITLE
+         ===================================================== -->
+
+    <text x="800"
+          y="184"
+          text-anchor="middle"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="76"
+          font-weight="900"
+          letter-spacing="20"
+          fill="#0E0E12">
+      ALTER ASURA
+    </text>
+
+
+    <!-- little title accents -->
+
+    <rect x="492"
+          y="205"
+          width="190"
+          height="5"
+          fill="#5A1DFF"/>
+
+    <rect x="918"
+          y="205"
+          width="190"
+          height="5"
+          fill="#FF1FD2"/>
+
+
+    <!-- =====================================================
+         TAGLINE
+         ===================================================== -->
+
+    <text x="800"
+          y="248"
+          text-anchor="middle"
+          font-family="'Courier New', monospace"
+          font-size="20"
+          font-weight="700"
+          letter-spacing="5"
+          fill="#0E0E12">
+      BEAUTIFUL BAD IDEAS
+    </text>
+
+    <!-- pink // -->
+    <text x="800"
+          y="286"
+          text-anchor="middle"
+          font-family="'Courier New', monospace"
+          font-size="23"
+          font-weight="900"
+          letter-spacing="4"
+          fill="#FF1FD2">
+      //
+    </text>
+
+    <text x="800"
+          y="322"
+          text-anchor="middle"
+          font-family="'Courier New', monospace"
+          font-size="20"
+          font-weight="700"
+          letter-spacing="5"
+          fill="#0E0E12">
+      MACHINE MISCHIEF
+    </text>
+
+
+    <!-- =====================================================
+     BOTTOM LEFT MICRO SYSTEM
+     ===================================================== -->
+
+<!-- label -->
+<text x="45"
+      y="380"
+      font-family="'Courier New', monospace"
+      font-size="13"
+      font-weight="700"
+      letter-spacing="3"
+      fill="#0E0E12">
+  CREATE / DISTORT / REBUILD
+</text>
+
+<!-- violet slashes — deliberately separated from text -->
+<g fill="#5A1DFF">
+
+  <polygon points="355,356 367,356 349,384 337,384"/>
+  <polygon points="378,356 390,356 372,384 360,384"/>
+  <polygon points="401,356 413,356 395,384 383,384"/>
+  <polygon points="424,356 436,356 418,384 406,384"/>
+  <polygon points="447,356 459,356 441,384 429,384"/>
+  <polygon points="470,356 482,356 464,384 452,384"/>
+
+</g>
+
+    <!-- =====================================================
+         CENTER DOT
+         ===================================================== -->
+
+    <circle cx="800"
+            cy="370"
+            r="10"
+            fill="#FF1FD2"/>
+
+    <circle cx="800"
+            cy="370"
+            r="4"
+            fill="#ECE7D7"/>
+
+
+    <!-- =====================================================
+         BOTTOM RIGHT RULES
+         ===================================================== -->
+
+    <g stroke="#0D8A6F"
+       stroke-width="4">
+
+      <line x1="1080"
+            y1="358"
+            x2="1450"
+            y2="358"/>
+
+      <line x1="1040"
+            y1="372"
+            x2="1450"
+            y2="372"
+            opacity="0.7"/>
+
+      <line x1="1120"
+            y1="386"
+            x2="1450"
+            y2="386"
+            opacity="0.4"/>
+
+    </g>
+
+
+    <!-- =====================================================
+         SMALL SPARKS
+         ===================================================== -->
+
+    <!-- left -->
+    <g transform="translate(290 95)">
+      <polygon
+        points="
+        0,-16
+        5,-5
+        16,0
+        5,5
+        0,16
+        -5,5
+        -16,0
+        -5,-5
+        "
+        fill="#FFD300"/>
+    </g>
+
+    <!-- right -->
+    <g transform="translate(1280 330)">
+      <polygon
+        points="
+        0,-14
+        4,-4
+        14,0
+        4,4
+        0,14
+        -4,4
+        -14,0
+        -4,-4
+        "
+        fill="#0E0E12"/>
+    </g>
+
+
+    <!-- =====================================================
+         MICRO LABELS
+         ===================================================== -->
+
+    <text x="1515"
+          y="380"
+          text-anchor="end"
+          font-family="'Courier New', monospace"
+          font-size="13"
+          font-weight="700"
+          letter-spacing="4"
+          fill="#0E0E12">
+      01
+    </text>
+
+  </g>
+
+</svg>
